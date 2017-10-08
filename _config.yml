@@ -1,18 +1,18 @@
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-url: 'http://joshgerdes.com/jekyll-uno'
-baseurl: '/jekyll-uno'
+title: "Marta Padilha"
+description: 'Designer'
+url: 'https://martapadilha.netlify.com'
+baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  name: 'Marta Padilha'
+  email: marta.padilha@gmail.com
+  twitter_username: marta.padilha
+  facebook_username: marta.padilha
+  #github_username:  joshgerdes
+  #linkedin_username:  joshgerdes
 
 defaults:
   -
